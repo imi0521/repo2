@@ -1,6 +1,6 @@
 hello word
 
-repo2   
+pull冲突解决 
 
 
 
